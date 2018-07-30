@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 29 11:32:05 CEST 2017
+hadoop-core-0.20.2-cdh3u4.jar>=
+hadoop-core-0.20.2-cdh3u4.pom>=

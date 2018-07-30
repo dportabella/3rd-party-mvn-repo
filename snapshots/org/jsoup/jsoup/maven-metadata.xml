@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jsoup</groupId>
+  <artifactId>jsoup</artifactId>
+  <versioning>
+    <versions>
+      <version>1.12.1-fix_nbsp-publish-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180730134441</lastUpdated>
+  </versioning>
+</metadata>
